@@ -1,2 +1,2 @@
 This is sample file
-Edit from github and git
+Edits from github and git
