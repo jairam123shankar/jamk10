@@ -1,3 +1,3 @@
 This is sample file
 Edits from github and git
-devops is very easy
+Devops is easy and we can learn new things
