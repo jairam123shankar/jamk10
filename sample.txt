@@ -1,6 +1,5 @@
 This is sample file
 Edits from github and git
-Devops is easy and we can learn new things
-looking forward
-Learning new concepts are complicated
-if i practice it's easy
+My name is Jairam
+I am learning devops
+Learning devops need practice
